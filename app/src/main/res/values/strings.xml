@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Name</string>
+    <string name="name">What\'s your name?</string>
+    <string name="button">Ready</string>
+    <string name="answer">"Answer "</string>
+    <string name="sentence">"Welcome "</string>
+</resources>
